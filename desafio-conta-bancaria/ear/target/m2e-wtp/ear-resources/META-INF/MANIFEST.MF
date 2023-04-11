@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Built-By: edaniel
-Build-Jdk: 17.0.1
-Class-Path: conta-bancaria-core-1.0.0-SNAPSHOT.jar hibernate-ehcache-5.1
- .17.Final.jar jboss-logging-3.3.0.Final.jar ehcache-2.10.1.jar slf4j-ap
- i-1.7.7.jar commons-lang3-3.12.0.jar
-Created-By: Maven Integration for Eclipse
-
